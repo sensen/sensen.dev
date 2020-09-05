@@ -1,0 +1,15 @@
+baseURL = "https://sensen.dev/"
+languageCode = "en-us"
+title = "sensen.dev"
+theme = "cupper"
+
+[params]
+description = "Maker of [Typing Hero](http://typinghero.app).\n\n Loves building and automating things.\n\n A bootstrapper, a programmer, and a writer wannabe."
+homeMetaContent = "sensen.dev - theothersen - Djonny Stevens Abenz"
+footer = "Made with [Hugo](https://gohugo.io). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)."
+dateFormat = "22 Jan 2020"
+
+[[menu.nav]]
+name = "Home"
+url = "/"
+weight = 1

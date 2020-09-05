@@ -1,0 +1,10 @@
+<header class="intro-and-nav" role="banner">
+  <div>
+    <div class="intro">
+      <p class="library-desc">
+        {{ with .Site.Params.description }} {{ . | markdownify }} {{ end }}
+      </p>
+    </div>
+    {{ partial "nav.html" . }}
+  </div>
+</header>

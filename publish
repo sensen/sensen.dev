@@ -1,0 +1,17 @@
+echo "Recreating public/ directory"
+rm public -rf
+mkdir public
+
+echo "Generating site content"
+git worktree prune
+git worktree add -B gh-pages public origin/gh-pages
+hugo
+
+echo "Recording changes"
+cd public
+git add .
+git commit -m "$1"
+
+echo "Publishing site"
+cd ..
+git push origin gh-pages
