@@ -2,7 +2,7 @@ Hey! I go by Sen.
 
 I'd like to share my experience building a product. My goal is to help other people turning their own idea into a real product!
 
-Since 2 years ago, I've been building a [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service) product called [Typing Hero](https://typinghero.app) on the side. To date, Typing Hero is proud to serve **16K+ active users** and reliably expanding text for **11M+ times** each month, without spending a penny on advertising.
+Since 2 years ago, I've been building a [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service) product called [Typing Hero](https://typinghero.app). To date, Typing Hero helps **16K+ active users** to expand text **11M+ times** per month. All were done on the side without spending a penny on advertising.
 
 If you'd like to know how I did what works for me, you can follow or reach out to me on the following platforms.
 
